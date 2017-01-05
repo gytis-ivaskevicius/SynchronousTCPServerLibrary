@@ -1,0 +1,4 @@
+c:\users\gytis\documents\visual studio 2015\Projects\SynchronousTCPServerLibrary\SynchronousTCPServerLibrary\bin\Debug\SynchronousTCPServer_1.0.0.dll
+c:\users\gytis\documents\visual studio 2015\Projects\SynchronousTCPServerLibrary\SynchronousTCPServerLibrary\bin\Debug\SynchronousTCPServer_1.0.0.pdb
+c:\users\gytis\documents\visual studio 2015\Projects\SynchronousTCPServerLibrary\SynchronousTCPServerLibrary\obj\Debug\SynchronousTCPServer_1.0.0.dll
+c:\users\gytis\documents\visual studio 2015\Projects\SynchronousTCPServerLibrary\SynchronousTCPServerLibrary\obj\Debug\SynchronousTCPServer_1.0.0.pdb
