@@ -1,0 +1,11 @@
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\Server Sample.exe.config
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server Sample.csprojResolveAssemblyReference.cache
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server_Sample.MainForm.resources
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server_Sample.Properties.Resources.resources
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server Sample.csproj.GenerateResource.Cache
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\Server Sample.exe
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\Server Sample.pdb
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\SynchronousTCPServer_1.0.0.dll
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\SynchronousTCPServer_1.0.0.pdb
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server Sample.exe
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server Sample.pdb
