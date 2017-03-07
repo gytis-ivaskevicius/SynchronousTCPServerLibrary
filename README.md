@@ -5,19 +5,19 @@ Simple Synchronous TCP Server Library written in C#.
 ##startListening(int port, int backlog)
 1. port - Port on which server should run.
 2. backlog - Maximum number of permitted connections.<br>
-##Notes: Starts server in the same thread, in other words - everything that goes after this method wont be executed untill server is stoped. To avoid it - read below.
+Notes: Starts server in the same thread, in other words - everything that goes after this method wont be executed untill server is stoped. To avoid it - read below.
 
 <br>
 
 ##startListeningInSeperateThread(int port, int backlog)
 1. port - Port on which server should run.
 2. backlog - Maximum number of permitted connections.<br>
-##Notes: Creates thread in which it listens for connestions.
+Notes: Creates thread in which it listens for connestions.
 
 <br>
 
 ##closeServer()
-###Notes: Closes server.
+Notes: Closes server.
 
 <br>
 
@@ -30,19 +30,19 @@ Simple Synchronous TCP Server Library written in C#.
 ##sendln(Socket socket, string message)
 1. socket - Socket aka client.
 2. message - message that you want to send.<br>
-###Notes: Same as "send" but adds "new line" symbol at the end of the message.
+Notes: Same as "send" but adds "new line" symbol at the end of the message.
 
 <br>
 
 ##broadcast(string message)
 1. message - message that you want to broadcast.<br>
-###Notes: Broadcasts message to all clients.
+Notes: Broadcasts message to all clients.
 
 <br>
 
 ##broadcastln(string message)
 1. message - message that you want to broadcast.<br>
-###Notes: Broadcasts message(with "new line" symbol) to all clients.
+Notes: Broadcasts message(with "new line" symbol) to all clients.
 
 <br>
 
@@ -52,7 +52,7 @@ Simple Synchronous TCP Server Library written in C#.
 <br>
 
 ##kickAll()
-###Note: Disconnects all sockets.
+Note: Disconnects all sockets.
 
 <br>
 
