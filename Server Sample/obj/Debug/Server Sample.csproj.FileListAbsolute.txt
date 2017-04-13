@@ -5,7 +5,7 @@ C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\
 C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server Sample.csproj.GenerateResource.Cache
 C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\Server Sample.exe
 C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\Server Sample.pdb
-C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\SynchronousTCPServer_1.0.0.dll
-C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\SynchronousTCPServer_1.0.0.pdb
 C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server Sample.exe
 C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\obj\Debug\Server Sample.pdb
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\SynchronousTCPServer_1.1.0.dll
+C:\Cloud\OneDrive\Github\C#\SynchronousTCPServerLibrary\Server Sample\bin\Debug\SynchronousTCPServer_1.1.0.pdb

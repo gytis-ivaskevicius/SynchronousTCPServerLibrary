@@ -1,5 +1,4 @@
-﻿using SynchronousTCPServerLibrary;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,7 +21,7 @@ namespace Server_Sample
 
             TCPServer.onConnect += connected;
             TCPServer.onDisconnect += disconnected;
-            TCPServer.onDataReceived += received;
+            TCPServer.onDataReceive += received;
         }
 
 
@@ -106,7 +105,7 @@ namespace Server_Sample
         }
 
 
-        private void received(string message)
+        private void received(string message, byte[] receivedBytes, int count)
         {
             appendData("Client: " + message);
         }

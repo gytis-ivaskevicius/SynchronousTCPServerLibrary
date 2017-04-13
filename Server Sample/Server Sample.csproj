@@ -33,8 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SynchronousTCPServer_1.0.0">
-      <HintPath>..\SynchronousTCPServerLibrary\bin\Debug\SynchronousTCPServer_1.0.0.dll</HintPath>
+    <Reference Include="SynchronousTCPServer_1.1.0">
+      <HintPath>..\SynchronousTCPServerLibrary\bin\Debug\SynchronousTCPServer_1.1.0.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
